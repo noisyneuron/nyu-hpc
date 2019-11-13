@@ -4,9 +4,9 @@
 
 * Select "*Request HPC Account*"
 
-  ![Screenshot 2019-11-13 15.39.22](/Users/noisyneuron/ITP/2019-fall/ml5/nyu-hpc/images/Screenshot 2019-11-13 15.39.22.png)
+  ![Screenshot 2019-11-13 15.39.22](images/Screenshot 2019-11-13 15.39.22.png)
 
-* Fill in the details on the form. You will need a faculty member to approve/sponsor your account. The list of sponsors is pre-populated and might take a minute or so to load, be patient!![Screenshot 2019-11-13 15.42.21](/Users/noisyneuron/ITP/2019-fall/ml5/nyu-hpc/images/Screenshot 2019-11-13 15.42.21.png)
+* Fill in the details on the form. You will need a faculty member to approve/sponsor your account. The list of sponsors is pre-populated and might take a minute or so to load, be patient!![Screenshot 2019-11-13 15.42.21](images/Screenshot 2019-11-13 15.42.21.png)
 
 * You will be taken back to the first screen, and it might appear as if nothing happened. Click on "*Track my Requests*" to ensure the form went through.
 
@@ -28,5 +28,5 @@ Once you have approval, the next step is to configure SSH access. SSH stands for
 * If you are **on the NYU network**,
   * ssh into HPC `ssh NETID@prince.hpc.nyu.edu` and put in your password
 * Congratulations, you're logged into HPC!
-* You should see a prompt with your Net ID, and if you type in `pwd` you will see the directory you are in -- which will correspond to your Net ID again.![Screen Shot 2019-11-13 at 4.08.22 PM](/Users/noisyneuron/ITP/2019-fall/ml5/nyu-hpc/images/Screen Shot 2019-11-13 at 4.08.22 PM.png)
+* You should see a prompt with your Net ID, and if you type in `pwd` you will see the directory you are in -- which will correspond to your Net ID again.![Screen Shot 2019-11-13 at 4.08.22 PM](images/Screen Shot 2019-11-13 at 4.08.22 PM.png)
 * You can exit by typing the command `exit` which will return you to your local machine. (If you are *not* on the NYU network, you will need to `exit` twice)

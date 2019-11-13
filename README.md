@@ -14,7 +14,7 @@
 
 
 
-*This documentation relies heavily on the notes shared by [Cristobal Valenzuela](https://github.com/cvalenzuela/hpc) and [Dan Oved]()*
+*This documentation relies heavily on the notes shared by [Cristobal Valenzuela](https://github.com/cvalenzuela/hpc) and [Dan Oved](https://github.com/oveddan/itp_presentations/blob/master/hpc/getting_started.md) - big thanks to them*
 
 <br><br>
 
