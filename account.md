@@ -1,0 +1,2 @@
+* Follow [these steps](https://wikis.nyu.edu/display/NYUHPC/Requesting+an+HPC+account+with+IIQ) to create an account on HPC. You will need a list a faculty member to approve your account
+* .. copy stuff from dan / cris posts
