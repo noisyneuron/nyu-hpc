@@ -4,6 +4,8 @@
 
 [Account setup](/account.md)
 
+[Data storage and file systems](/storage.md)
+
 [Data transfer](/transfer.md)
 
 [Modules, packages and virtual environments](/modules.md)
@@ -50,7 +52,7 @@
   
   * Transfer training data to servers 
   
-  * Getting the repo you want and getting all the requirements / modules
+  * Setting up the repo you want to use and all the requirements / modules
   
   * Figuring out the appropriate amount of resources you need
   
