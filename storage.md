@@ -29,7 +29,7 @@ While this might seem like a lot, it might be a factor to consider when training
 
 ### Deciding what to use
 
-*The following text is borrowed from [Dan Oved's workshop notes](https://github.com/oveddan/itp_presentations/blob/master/hpc/getting_started.md)*
+*~~ ~~ ~~ ~~ ~~ The following text is borrowed from [Dan Oved's workshop notes](https://github.com/oveddan/itp_presentations/blob/master/hpc/getting_started.md)* ~~ ~~ ~~ ~~ ~~
 
 
 

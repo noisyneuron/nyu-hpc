@@ -30,3 +30,11 @@ Once you have approval, the next step is to configure SSH access. SSH stands for
 * Congratulations, you're logged into HPC!
 * You should see a prompt with your Net ID, and if you type in `pwd` you will see the directory you are in -- which will correspond to your Net ID again.![Screen Shot 2019-11-13 at 4.08.22 PM](images/Screen Shot 2019-11-13 at 4.08.22 PM.png)
 * You can exit by typing the command `exit` which will return you to your local machine. (If you are *not* on the NYU network, you will need to `exit` twice)
+
+
+
+*Note: When you login to HPC, you are on a `login` node, and no intensive computation should be performed here! More on this on the XYZ file*
+
+
+
+**[Read about storage next. -->](storage.md)**

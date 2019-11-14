@@ -49,15 +49,10 @@
     
 * What are the broad steps I need to do?
   * Make an account and set up SSH access
-  
   * Transfer training data to servers 
-  
   * Setting up the repo you want to use and all the requirements / modules
-  
   * Figuring out the appropriate amount of resources you need
-  
-  * Queuing a job! (Or running a quick job in 'interactive' mode )
-  
+  * Queuing a job! (Or running a quick job in 'interactive' mode ). 
   * Transferring your model / data back 
   
-     
+   
