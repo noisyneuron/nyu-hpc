@@ -37,4 +37,4 @@ Once you have approval, the next step is to configure SSH access. SSH stands for
 
 
 
-**[Read about storage next. -->](storage.md)**
+**[Read about storage next. -->](/storage.md)**

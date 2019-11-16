@@ -221,6 +221,12 @@ Sometimes its easier to store your files on Google Drive, since there is large a
 
 **Transferring**
 
+To transfer with `rclone`, you must load the module first. (If you're doing this right after the setup, you already loaded the module)
+
+```
+module load rclone/1.38
+```
+
 The format for transferring with `rclone` is similar to `scp` --
 
 ```
