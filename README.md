@@ -1,5 +1,7 @@
 # Contents
 
+**~~ ~~ ~~ Work in progress! ~~ ~~ ~~**
+
 This guide to HPC is intentionally fragmented into parts -- to make it easier to digest and refer to, and to elaborate on each topic. It is not a step-by-step start-to-finish guide on training a model, but by going through it in the following order, that process should become evident. Please report issues if the documentation is unclear, or certain steps were missed out, or if there are any inaccuracies. 
 
 
@@ -19,6 +21,8 @@ This guide to HPC is intentionally fragmented into parts -- to make it easier to
 [Useful commands and troubleshooting](/useful.md)
 
 [Running Jupyter notebooks](/jupyter.md)
+
+[Examples workflows for popular ML repos](/examples.md)
 
 
 
