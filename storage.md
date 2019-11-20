@@ -87,3 +87,5 @@ cd $ARCHIVE
 
 
 
+**[Read about transferring data next. -->](/transfer.md)**
+

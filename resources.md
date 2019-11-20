@@ -40,7 +40,7 @@ The `c35-04` indicates this is a normal CPU compute node
 
 The `gpu-40` indicates this is a node with a GPU.
 
-***You can now install the packages required by your code and run it! See the XYZ file for more.***
+***You can now install the packages required by your code and run it! See the [moodules](/modules.md) page for more.***
 
 When you are done running your code, you can type `exit` to leave the compute node.
 
